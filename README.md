@@ -60,9 +60,11 @@ Data augmentation and early stopping used during training
 
 ## 🖼 Demo  
 
-![Upload Page](https://github.com/AliIbrahi1242003/chest-xray-diagnosis/raw/main/static/demo/upload_page.png)
+> The following demo images show the Upload Page and Result Page of the Chest X-ray Diagnosis Web App.
 
-![Result Page](https://github.com/AliIbrahi1242003/chest-xray-diagnosis/raw/main/static/demo/result_page.png)
+| Upload Page | Result Page |
+|-------------|--------------|
+| ![Upload Page](https://i.postimg.cc/0ywLbyFd/upload-page.png) | ![Result Page](https://i.postimg.cc/MpNrPVzj/result-page.png) |
 
 
 
