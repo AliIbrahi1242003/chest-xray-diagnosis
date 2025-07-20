@@ -63,15 +63,10 @@ Data augmentation and early stopping used during training
 > The following demo images are included in static/demo/ folder of this repository.
 
 
-# Clone the repository (if you haven't yet)
-git clone https://github.com/AliIbrahi1242003/chest-xray-diagnosis.git
+| Upload Page | Result Page |
+|-------------|--------------|
+| ![Upload](https://github.com/AliIbrahi1242003/chest-xray-diagnosis/raw/main/static/demo/upload_page.png) | ![Result](https://github.com/AliIbrahi1242003/chest-xray-diagnosis/raw/main/static/demo/result_page.png) |
 
-# Navigate to the project folder
-cd chest-xray-diagnosis
-
-# Copy demo images to your current directory
-cp static/demo/upload_page.png .
-cp static/demo/result_page.png .
 
 
 
