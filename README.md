@@ -63,9 +63,11 @@ Data augmentation and early stopping used during training
 > The following demo images are included in static/demo/ folder of this repository.
 
 
-| Upload Page | Result Page |
-|-------------|--------------|
-| ![Upload](https://github.com/AliIbrahi1242003/chest-xray-diagnosis/raw/main/static/demo/upload_page.png) | ![Result](https://github.com/AliIbrahi1242003/chest-xray-diagnosis/raw/main/static/demo/result_page.png) |
+## 🖼 Demo  
+
+![Upload Page](https://github.com/AliIbrahi1242003/chest-xray-diagnosis/raw/main/static/demo/upload_page.png)
+
+![Result Page](https://github.com/AliIbrahi1242003/chest-xray-diagnosis/raw/main/static/demo/result_page.png)
 
 
 
