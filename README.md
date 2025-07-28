@@ -61,10 +61,10 @@ Data augmentation and early stopping used during training
 ## 🖼 Demo  
 
 ### Upload Page  
-![Upload Page](https://i.postimg.cc/x0drwZ30/upload-page.png)
+![Upload Page](./static/demo/upload_page.png)
 
 ### Result Page  
-![Result Page](https://i.postimg.cc/HngZvjd9/result-page.png)
+![Result Page](./static/demo/result_page.png)
 
 
 
