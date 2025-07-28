@@ -60,12 +60,15 @@ Data augmentation and early stopping used during training
 
 ## 🖼 Demo  
 
-### Upload Page  
-![Upload Page](https://raw.githubusercontent.com/AliIbrahi1242003/chest-xray-diagnosis/main/static/demo/upload_page.png)
+<h3 align="center">Upload Page</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AliIbrahi1242003/chest-xray-diagnosis/main/static/demo/upload_page.png" alt="Upload Page Screenshot" width="600"/>
+</p>
 
-
-### Result Page  
-![Result Page](https://raw.githubusercontent.com/AliIbrahi1242003/chest-xray-diagnosis/main/static/demo/result_page.png)
+<h3 align="center">Result Page</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AliIbrahi1242003/chest-xray-diagnosis/main/static/demo/result_page.png" alt="Result Page Screenshot" width="600"/>
+</p>
 
 
 
